@@ -479,3 +479,7 @@ div[data-screen-name='rcp-fe-lol-navigation-screen'] {
 .style-profile-skin-picker-button {
     filter: grayscale(100%) brightness(1.2);
 }
+
+.absolute.animate-opacity.hold-leave.w-viewport.h-full.bg-w-full.bg-no-repeat {
+    background-image: url("http://rzzzabka.github.io/themes/assets/clouds1.jpg")!important;
+}
